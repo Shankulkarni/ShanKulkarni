@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankulkarni" alt="shankulkarni" /></a> </p>
 
-- 💬 Ask me about **React, React Native, GoLang and Cyber secturity**
+- 💬 Ask me about **React, React Native, GoLang and Cyber security **
 
 - 📫 How to reach me **shan.kulkarni.ts@gmail.com**
 
