@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, React Native, TypeScript, Next.js, Go, Node.js, SwiftUI, Supabase, AWS, and Stripe**
 
-- 🌍 Based in **Bhopal, India** - open to remote engagements worldwide
-
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
@@ -40,8 +38,6 @@
     <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,go,swift,kotlin,postgres,supabase,aws,vercel,cloudflare,tailwind,docker,git,figma,sentry,stripe" alt="skills" />
   </a>
 </p>
-
-<p align="left"> <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/> <img src="https://cdn.simpleicons.org/mixpanel/7856FF" alt="mixpanel" width="40" height="40"/> <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="shopify" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shankulkarni&theme=tokyonight" alt="streak stats" />
