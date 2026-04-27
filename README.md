@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://gh-trophy.cdnsoft.net/?username=shankulkarni&no-bg=true" alt="shankulkarni" /> </p>
 
-- 🛠️ I take prototypes and early-stage apps to production, including AI features built on Claude and OpenAI
+- 🛠️ Full-stack architect and lead engineer. I own products from system design through scale, including AI products.
 
 - 📱 Building cross-platform **iOS, Android, and web apps** end-to-end - from architecture to App Store launch
 
