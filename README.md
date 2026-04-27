@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">Professional software engineer with 10+ years of experience</h3>
 
-<p align="left"> <img src="https://gh-trophy.cdnsoft.net/?username=shankulkarni" alt="shankulkarni" /> </p>
+<p align="left"> <img src="https://gh-trophy.cdnsoft.net/?username=shankulkarni&no-bg=true" alt="shankulkarni" /> </p>
 
 - 💬 Ask me about **SwiftUI, React, React Native, GoLang and Cyber security**
 
