@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">Senior full-stack engineer - 10+ years building web, mobile, and backend end-to-end</h3>
 
-<p align="left"> <img src="https://gh-trophy.cdnsoft.net/?username=shankulkarni&no-bg=true" alt="shankulkarni" /> </p>
 
 - 🛠️ Full-stack architect and lead engineer. I own products from system design through scale, including AI products.
 
@@ -38,6 +37,7 @@
     <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,go,swift,kotlin,postgres,supabase,aws,vercel,cloudflare,tailwind,docker,git,figma,sentry,stripe" alt="skills" />
   </a>
 </p>
+<p align="left"> <img src="https://gh-trophy.cdnsoft.net/?username=shankulkarni&no-bg=true" alt="shankulkarni" /> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shankulkarni&theme=tokyonight" alt="streak stats" />
