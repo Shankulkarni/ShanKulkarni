@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">Senior full-stack engineer - 10+ years building web, mobile, and backend end-to-end</h3>
+<h3 align="center">Senior full-stack engineer | Claude Certified Architect - 10+ years building web, mobile, and backend end-to-end</h3>
 
 
 - 🛠️ Full-stack architect and lead engineer. I own products from system design through scale, including AI products.
